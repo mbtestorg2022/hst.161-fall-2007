@@ -7,11 +7,48 @@ uid: 3b09a20d-8fb0-bb4d-33d2-6a3c7f4e4601
 Problem Sets
 ------------
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1)) | ([PDF]({{< baseurl >}}/resources/ps1_key)) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/problem_set_2)) | ([PDF]({{< baseurl >}}/resources/ps2_key)) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/problem_set_3)) | ([PDF]({{< baseurl >}}/resources/ps3_key)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_key))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/problem_set_2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2_key))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/problem_set_3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_key))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Karyotyping assignment ([PDF]({{< baseurl >}}/resources/chromosomes))
 

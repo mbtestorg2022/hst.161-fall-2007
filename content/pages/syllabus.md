@@ -61,44 +61,706 @@ Your individual project will lead to the completion of a 10-12 page paper which 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets and paper reading assignments | 20% |
-| Discussion section participation and presentation | 20% |
-| Midterm | 15% |
-| Final exam | 20% |
-| Clinical project paper | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets and paper reading assignments
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Discussion section participation and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Clinical project paper
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| LEC # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | Mendelian genetics, part 1 | D. Housman | &nbsp; |
-| 2 | Hypertrophic cardiomyopathy | C. Seidman | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Discussion section example {{< br >}}{{< br >}} Muscular dystrophies {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} A. Giersch and TA's {{< br >}}{{< br >}} R. Brown {{< br >}}{{< br >}}  | Reading assignment 1 due |
-| 4 |  {{< br >}}{{< br >}} Mendelian genetics, part 2 {{< br >}}{{< br >}} Cystic fibrosis {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} D. Housman {{< br >}}{{< br >}} R. Parad {{< br >}}{{< br >}}  | Problem set 1 due |
-| 5 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Thalassaemias {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} D. Nathans {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Mechanisms of mutation {{< br >}}{{< br >}} Hemophilia {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} D. Housman {{< br >}}{{< br >}} E. Neufeld {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Mithochondrial disorders {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} P. Greenstein {{< br >}}{{< br >}}  | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Chromosomes, part 1 {{< br >}}{{< br >}} Prenatal diagnostics {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} A. Giersch {{< br >}}{{< br >}} L. Holmes {{< br >}}{{< br >}}  | Reading assignment 2 due |
-| 9 | Discussion sections |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} A. Giersch {{< br >}}{{< br >}}  | Problem set 2 due |
-| 10 |  {{< br >}}{{< br >}} William's syndrome {{< br >}}{{< br >}} Chromosomes, part 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} B. Pober {{< br >}}{{< br >}} A. Giersch {{< br >}}{{< br >}}  | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Newborn screening {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} H. Levy {{< br >}}{{< br >}}  | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Deafness {{< br >}}{{< br >}} Genetic deafness {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} A. Giersch {{< br >}}{{< br >}} M. Kenna {{< br >}}{{< br >}}  | Reading assignment 3 due |
-| &nbsp; | Midterm exam | &nbsp; |
-| 13 |  {{< br >}}{{< br >}} Trinucleotide repeats {{< br >}}{{< br >}} Huntington's disease {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} D. Housman {{< br >}}{{< br >}} J. Cha {{< br >}}{{< br >}}  | &nbsp; |
-| 14 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Myotonic dystrophy {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} P. Greenstein {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | Epigenetics/imprinting/X-inactivation | L. Jackson-Grusby | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Rett syndrome {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} O. Khwajai {{< br >}}{{< br >}}  | &nbsp; |
-| 17 | Facioscapulohumeral Dystrophy (FSHD) | D. Housman | Reading assignment 4 due |
-| 18 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Cancer {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} D. Housman {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Colon cancer | D. Chung | Reading assignment 5 due |
-| 20 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Leukemia {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Students {{< br >}}{{< br >}} G. Daley {{< br >}}{{< br >}}  | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Complex traits {{< br >}}{{< br >}} Hereditary Breast Ovarian Cancer {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} D. Housman {{< br >}}{{< br >}} J. Garber {{< br >}}{{< br >}}  | &nbsp; |
-| 22 |  {{< br >}}{{< br >}} Genomic and epigenomic studies of human cancers {{< br >}}{{< br >}} Gene therapy {{< br >}}{{< br >}}  | D. Housman | Problem set 3 due |
-| 23 | RNAi | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Discussion sections {{< br >}}{{< br >}} Review {{< br >}}{{< br >}}  | Students | &nbsp; |
-| &nbsp; | Final exam | &nbsp; |
-| &nbsp; | Paper presentations | Students | &nbsp; |
-| &nbsp; | Paper presentations (cont.) | Students |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Mendelian genetics, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+D. Housman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Hypertrophic cardiomyopathy
+{{< tdclose >}}
+{{< tdopen >}}
+C. Seidman
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion section example
+
+Muscular dystrophies
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A. Giersch and TA's
+
+R. Brown
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading assignment 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mendelian genetics, part 2
+
+Cystic fibrosis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D. Housman
+
+R. Parad
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Thalassaemias
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+D. Nathans
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mechanisms of mutation
+
+Hemophilia
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D. Housman
+
+E. Neufeld
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Mithochondrial disorders
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+P. Greenstein
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Chromosomes, part 1
+
+Prenatal diagnostics
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A. Giersch
+
+L. Holmes
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading assignment 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion sections
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+A. Giersch
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+William's syndrome
+
+Chromosomes, part 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+B. Pober
+
+A. Giersch
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Newborn screening
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+H. Levy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Deafness
+
+Genetic deafness
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+A. Giersch
+
+M. Kenna
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Reading assignment 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Trinucleotide repeats
+
+Huntington's disease
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D. Housman
+
+J. Cha
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Myotonic dystrophy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+P. Greenstein
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Epigenetics/imprinting/X-inactivation
+{{< tdclose >}}
+{{< tdopen >}}
+L. Jackson-Grusby
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Rett syndrome
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+O. Khwajai
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Facioscapulohumeral Dystrophy (FSHD)
+{{< tdclose >}}
+{{< tdopen >}}
+D. Housman
+{{< tdclose >}}
+{{< tdopen >}}
+Reading assignment 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Cancer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+D. Housman
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Colon cancer
+{{< tdclose >}}
+{{< tdopen >}}
+D. Chung
+{{< tdclose >}}
+{{< tdopen >}}
+Reading assignment 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Leukemia
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Students
+
+G. Daley
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Complex traits
+
+Hereditary Breast Ovarian Cancer
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+D. Housman
+
+J. Garber
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Genomic and epigenomic studies of human cancers
+
+Gene therapy
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+D. Housman
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+RNAi
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion sections
+
+Review
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Paper presentations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Students
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
