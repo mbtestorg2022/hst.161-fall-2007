@@ -5,6 +5,7 @@ description: This resource contains information about how do you determine where
   factors?
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/642617b3a6e5ae42e5c443ad4b281b99_lecture24.pdf
 file_type: application/pdf
+parent_uid: 0243ff27-e8c1-fd3d-968c-5d53d72e00d2
 resourcetype: Document
 title: lecture24.pdf
 uid: 642617b3-a6e5-ae42-e5c4-43ad4b281b99

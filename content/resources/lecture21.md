@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about hereditary breast ovarian cancer.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/hst-161-molecular-biology-and-genetics-in-modern-medicine-fall-2007/1ff4dee0e1b467f2eb5ad3294cd29d56_lecture21.pdf
 file_type: application/pdf
+parent_uid: 0243ff27-e8c1-fd3d-968c-5d53d72e00d2
 resourcetype: Document
 title: lecture21.pdf
 uid: 1ff4dee0-e1b4-67f2-eb5a-d3294cd29d56
